@@ -13,3 +13,6 @@
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react"/>
+<br>
+
+[![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
