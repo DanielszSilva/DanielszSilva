@@ -18,3 +18,10 @@
 [![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Contato
+-     ✉️ Email: danielsilva.dev@outlook.com
+-     📷 Instagram: @dnziin_xl
+-     📓 LinkedIn: Em breve!
+-     🌐 Portfólio pessoal: DanielszSilva
+
