@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react"/>
 <br>
 
-[![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielszSilva)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Contato
 -     ✉️ Email: danielsilva.dev@outlook.com
